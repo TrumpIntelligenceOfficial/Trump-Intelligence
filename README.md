@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  A sophisticated artificial intelligence chatbot that emulates the unique communication style of the 45th President of the United States.
+  A sophisticated artificial intelligence chatbot that emulates the unique communication style of the 45th and 47th President of the United States.
 </p>
 
 <p align="center">
